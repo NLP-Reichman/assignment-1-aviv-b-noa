@@ -1,1 +1,1 @@
-https://github.com/NLP-Reichman/assignment-1-aviv-b-noa/blob/main/Assignment_1.ipynb
+https://colab.research.google.com/drive/1U8pDy9lYpglGOXFZ7O_wZ_KxyxEP3XJa
