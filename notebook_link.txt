@@ -1,1 +1,1 @@
-https://github.com/NLP-Reichman/assignment-1-aviv-b-noa/blob/f41b02a02566e49104ac28c84a208eb29828911e/Assignment_1.ipynb
+https://github.com/NLP-Reichman/assignment-1-aviv-b-noa/blob/main/Assignment_1.ipynb
